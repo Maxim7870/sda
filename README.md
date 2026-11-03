@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Maxim7870/sda/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maxim7870/sda/tree/master/0160-intersection-of-two-linked-lists) |
+| [0905-sort-array-by-parity](https://github.com/Maxim7870/sda/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Maxim7870/sda/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Maxim7870/sda/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/Maxim7870/sda/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/Maxim7870/sda/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Maxim7870/sda/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Maxim7870/sda/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/Maxim7870/sda/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Maxim7870/sda/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
